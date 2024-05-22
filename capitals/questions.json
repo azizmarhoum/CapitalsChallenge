@@ -1,0 +1,284 @@
+[
+    {
+        "country": "Australia",
+        "flag": "🇦🇺",
+        "choices": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+        "correct": "Canberra"
+    },
+    {
+        "country": "Brazil",
+        "flag": "🇧🇷",
+        "choices": ["Rio de Janeiro", "São Paulo", "Salvador", "Brasília"],
+        "correct": "Brasília"
+    },
+    {
+        "country": "Canada",
+        "flag": "🇨🇦",
+        "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "correct": "Ottawa"
+    },
+    {
+        "country": "China",
+        "flag": "🇨🇳",
+        "choices": ["Beijing", "Shanghai", "Guangzhou", "Shenzhen"],
+        "correct": "Beijing"
+    },
+    {
+        "country": "France",
+        "flag": "🇫🇷",
+        "choices": ["Paris", "Lyon", "Marseille", "Nice"],
+        "correct": "Paris"
+    },
+    {
+        "country": "Germany",
+        "flag": "🇩🇪",
+        "choices": ["Berlin", "Hamburg", "Munich", "Frankfurt"],
+        "correct": "Berlin"
+    },
+    {
+        "country": "India",
+        "flag": "🇮🇳",
+        "choices": ["Mumbai", "Delhi", "Bangalore", "New Delhi"],
+        "correct": "New Delhi"
+    },
+    {
+        "country": "Italy",
+        "flag": "🇮🇹",
+        "choices": ["Rome", "Milan", "Venice", "Florence"],
+        "correct": "Rome"
+    },
+    {
+        "country": "Japan",
+        "flag": "🇯🇵",
+        "choices": ["Tokyo", "Osaka", "Kyoto", "Nagoya"],
+        "correct": "Tokyo"
+    },
+    {
+        "country": "Mexico",
+        "flag": "🇲🇽",
+        "choices": ["Mexico City", "Guadalajara", "Monterrey", "Puebla"],
+        "correct": "Mexico City"
+    },
+    {
+        "country": "Russia",
+        "flag": "🇷🇺",
+        "choices": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg"],
+        "correct": "Moscow"
+    },
+    {
+        "country": "South Africa",
+        "flag": "🇿🇦",
+        "choices": ["Johannesburg", "Cape Town", "Durban", "Pretoria"],
+        "correct": "Pretoria"
+    },
+    {
+        "country": "South Korea",
+        "flag": "🇰🇷",
+        "choices": ["Seoul", "Busan", "Incheon", "Daegu"],
+        "correct": "Seoul"
+    },
+    {
+        "country": "Spain",
+        "flag": "🇪🇸",
+        "choices": ["Madrid", "Barcelona", "Seville", "Valencia"],
+        "correct": "Madrid"
+    },
+    {
+        "country": "United Kingdom",
+        "flag": "🇬🇧",
+        "choices": ["London", "Manchester", "Birmingham", "Edinburgh"],
+        "correct": "London"
+    },
+    {
+        "country": "United States",
+        "flag": "🇺🇸",
+        "choices": ["New York", "Washington D.C.", "Los Angeles", "Chicago"],
+        "correct": "Washington D.C."
+    },
+    {
+        "country": "Argentina",
+        "flag": "🇦🇷",
+        "choices": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+        "correct": "Buenos Aires"
+    },
+    {
+        "country": "Egypt",
+        "flag": "🇪🇬",
+        "choices": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "correct": "Cairo"
+    },
+    {
+        "country": "Greece",
+        "flag": "🇬🇷",
+        "choices": ["Athens", "Thessaloniki", "Patras", "Heraklion"],
+        "correct": "Athens"
+    },
+    {
+        "country": "Indonesia",
+        "flag": "🇮🇩",
+        "choices": ["Jakarta", "Surabaya", "Bandung", "Medan"],
+        "correct": "Jakarta"
+    },
+    {
+        "country": "Nigeria",
+        "flag": "🇳🇬",
+        "choices": ["Lagos", "Abuja", "Kano", "Ibadan"],
+        "correct": "Abuja"
+    },
+    {
+        "country": "Norway",
+        "flag": "🇳🇴",
+        "choices": ["Oslo", "Bergen", "Stavanger", "Trondheim"],
+        "correct": "Oslo"
+    },
+    {
+        "country": "Pakistan",
+        "flag": "🇵🇰",
+        "choices": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+        "correct": "Islamabad"
+    },
+    {
+        "country": "Peru",
+        "flag": "🇵🇪",
+        "choices": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+        "correct": "Lima"
+    },
+    {
+        "country": "Philippines",
+        "flag": "🇵🇭",
+        "choices": ["Manila", "Cebu City", "Davao City", "Quezon City"],
+        "correct": "Manila"
+    },
+    {
+        "country": "Poland",
+        "flag": "🇵🇱",
+        "choices": ["Warsaw", "Kraków", "Wrocław", "Poznań"],
+        "correct": "Warsaw"
+    },
+    {
+        "country": "Portugal",
+        "flag": "🇵🇹",
+        "choices": ["Lisbon", "Porto", "Braga", "Coimbra"],
+        "correct": "Lisbon"
+    },
+    {
+        "country": "Saudi Arabia",
+        "flag": "🇸🇦",
+        "choices": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+        "correct": "Riyadh"
+    },
+    {
+        "country": "Sweden",
+        "flag": "🇸🇪",
+        "choices": ["Stockholm", "Gothenburg", "Malmö", "Uppsala"],
+        "correct": "Stockholm"
+    },
+    {
+        "country": "Thailand",
+        "flag": "🇹🇭",
+        "choices": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"],
+        "correct": "Bangkok"
+    },
+    {
+        "country": "Turkey",
+        "flag": "🇹🇷",
+        "choices": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+        "correct": "Ankara"
+    },
+    {
+        "country": "Ukraine",
+        "flag": "🇺🇦",
+        "choices": ["Kyiv", "Lviv", "Odessa", "Kharkiv"],
+        "correct": "Kyiv"
+    },
+    {
+        "country": "Venezuela",
+        "flag": "🇻🇪",
+        "choices": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"],
+        "correct": "Caracas"
+    },
+    {
+        "country": "Vietnam",
+        "flag": "🇻🇳",
+        "choices": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Haiphong"],
+        "correct": "Hanoi"
+    },
+    {
+        "country": "Bangladesh",
+        "flag": "🇧🇩",
+        "choices": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"],
+        "correct": "Dhaka"
+    },
+    {
+        "country": "Chile",
+        "flag": "🇨🇱",
+        "choices": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+        "correct": "Santiago"
+    },
+    {
+        "country": "Colombia",
+        "flag": "🇨🇴",
+        "choices": ["Bogotá", "Medellín", "Cali", "Cartagena"],
+        "correct": "Bogotá"
+    },
+    {
+        "country": "Czech Republic",
+        "flag": "🇨🇿",
+        "choices": ["Prague", "Brno", "Ostrava", "Plzeň"],
+        "correct": "Prague"
+    },
+    {
+        "country": "Denmark",
+        "flag": "🇩🇰",
+        "choices": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+        "correct": "Copenhagen"
+    },
+    {
+        "country": "Ethiopia",
+        "flag": "🇪🇹",
+        "choices": ["Addis Ababa", "Gondar", "Mek'ele", "Adama"],
+        "correct": "Addis Ababa"
+    },
+    {
+        "country": "Finland",
+        "flag": "🇫🇮",
+        "choices": ["Helsinki", "Espoo", "Tampere", "Vantaa"],
+        "correct": "Helsinki"
+    },
+    {
+        "country": "Hungary",
+        "flag": "🇭🇺",
+        "choices": ["Budapest", "Debrecen", "Szeged", "Miskolc"],
+        "correct": "Budapest"
+    },
+    {
+        "country": "Kenya",
+        "flag": "🇰🇪",
+        "choices": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+        "correct": "Nairobi"
+    },
+    {
+        "country": "Malaysia",
+        "flag": "🇲🇾",
+        "choices": ["Kuala Lumpur", "George Town", "Johor Bahru", "Ipoh"],
+        "correct": "Kuala Lumpur"
+    },
+    {
+        "country": "Netherlands",
+        "flag": "🇳🇱",
+        "choices": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht"],
+        "correct": "Amsterdam"
+    },
+    {
+        "country": "Romania",
+        "flag": "🇷🇴",
+        "choices": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași"],
+        "correct": "Bucharest"
+    },
+    {
+        "country": "Switzerland",
+        "flag": "🇨🇭",
+        "choices": ["Bern", "Zurich", "Geneva", "Basel"],
+        "correct": "Bern"
+    }
+]

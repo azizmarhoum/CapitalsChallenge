@@ -1,0 +1,133 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1, h2 {
+    color: #1e90ff; /* DodgerBlue color for headings */
+}
+
+button {
+    background-color: #1e90ff; /* DodgerBlue color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #104e8b; /* Darker blue on hover */
+}
+
+/* Container Styles */
+#quiz-container, #result-container, #welcome-container {
+    background-color: white;
+    border: 1px solid #1e90ff; /* Blue border */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 90%;
+    text-align: center;
+    margin: 20px;
+}
+
+.hide {
+    display: none;
+}
+
+/* Specific Element Styles */
+#question {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+#choices {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #1e90ff; /* Blue border */
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#timer {
+    font-size: 18px;
+    color: #ff4500; /* OrangeRed color */
+    margin: 10px 0;
+}
+
+#progress {
+    margin-bottom: 20px;
+}
+
+#score {
+    font-size: 22px;
+    color: #1e90ff; /* DodgerBlue color */
+    margin: 20px 0;
+}
+
+/* Card Styles for Results */
+#detailed-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.result-card {
+    border: 1px solid #1e90ff; /* Blue border */
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 250px;
+    box-sizing: border-box;
+}
+
+.result-card.correct {
+    border-left: 5px solid #32cd32; /* LimeGreen for correct answers */
+}
+
+.result-card.incorrect {
+    border-left: 5px solid #ff4500; /* OrangeRed for incorrect answers */
+}
+
+.result-card p {
+    margin: 5px 0;
+}
+
+/* Welcome Page Styles */
+#welcome-container p {
+    font-size: 16px;
+    color: #333;
+}
+
+#welcome-container button {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+#welcome-container button:hover {
+    background-color: #104e8b; /* Darker blue on hover */
+}

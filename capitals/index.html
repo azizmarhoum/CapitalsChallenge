@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capital Cities Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="welcome-container">
+        <h1>Welcome to the Capital Cities Quiz!</h1>
+        <p>Test your knowledge of capital cities around the world. You will have 20 seconds to answer each question. Good luck!</p>
+        <button id="start-button">Start Quiz</button>
+    </div>
+
+    <div id="quiz-container" class="hide">
+        <h1 id="question"></h1>
+        <select id="choices"></select>
+        <p id="timer"></p>
+        <p id="progress"></p>
+        <button id="next-button" class="hide">Next</button>
+    </div>
+
+    <div id="result-container" class="hide">
+        <h1>Quiz Completed!</h1>
+        <p id="score"></p>
+        <div id="detailed-results"></div>
+        <button id="restart-button">Restart Quiz</button>
+    </div>
+
+    <audio id="background-sound" loop>
+        <source src="background-music.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
